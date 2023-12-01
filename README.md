@@ -1,6 +1,6 @@
  
 # Dracula for [Papirus Folders](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-> [Dracula](draculatheme.com) themed papirus folder icons for the [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) script. 
+> [Dracula](https://draculatheme.com/) themed papirus folder icons for the [Papirus folder icons](https://github.com/PapirusDevelopmentTeam/papirus-folders) script. 
 
 ![](showcase.png)
 
@@ -10,8 +10,8 @@
 2. Also, make sure you have the [papirus-folders script](https://github.com/PapirusDevelopmentTeam/papirus-folders) installed to your home via [this](https://github.com/PapirusDevelopmentTeam/papirus-folders#install) method.
 3. Clone this repository and change to cloned directory:
     ```
-    git clone https://github.com/
-    cd 
+    git clone https://github.com/dracula/papirus-folders
+    cd papirus-folders
     ```
 4. Run `cp -r Icons/* ~/.local/share/icons/Papirus` from the repo's  directory if you have installed Papirus for the user. <br>
     If you have installed Papirus system-wide, run `sudo cp -r Icons/* /usr/share/icons/Papirus`.
