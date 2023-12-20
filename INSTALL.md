@@ -9,11 +9,17 @@
    git clone https://github.com/dracula/papirus-folders
    cd papirus-folders
    ```
-4. 🏃🏻 Run: `cp -r Icons/* ~/.local/share/icons/Papirus`, from the repo's directory if you have installed Papirus for the user;<br />
+4. 🏃🏻 Run: `cp -r Icons/* ~/.local/share/icons/Papirus`, from the repo's directory if you have installed Papirus for the user;
+
    If you have installed Papirus system-wide, run: `sudo cp -r Icons/* /usr/share/icons/Papirus`;
+
 5. 🏃🏻 Run: `papirus-folders -lv` in the terminal to check whether the dracula-themed icon names are listed or not;
-6. Now, you can set the folder icons you prefer using `papirus-folders` command (that you installed in _step 2_);<br />
-   ✅ You can check the steps to use it [here](https://github.com/PapirusDevelopmentTeam/papirus-folders#script-usage);<br />
-   👇🏻 Example: <br />
+6. Now, you can set the folder icons you prefer using `papirus-folders` command (that you installed in _step 2_);
+
+   ✅ You can check the steps to use it [here](https://github.com/PapirusDevelopmentTeam/papirus-folders#script-usage);
+
+   👇🏻 Example:
+
    `papirus-folders -C dracula-default --theme Papirus`
+
 7. Boom! It's working ✨
