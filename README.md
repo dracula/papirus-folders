@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/papirus-folders](draculatheme.com/papirus-folders).
+All instructions can be found at [draculatheme.com/papirus-folders](https://draculatheme.com/papirus-folders).
 
 ## Team
 
